@@ -2,13 +2,15 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=480&lines=An+aspiring+techie+%23fresher;Data+Science+Enthusiast;%F0%9F%8E%93Senior+at+Amrita+Vishwa+Vidyapeetham;4%2B+years+of+coding+experience;5%E2%AD%90+at+Problem+Solving%2C+HackerRank;Always+learning+new+things">
-</p
+</p>
  
  ## Contribution Grid
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+ <p align="center"> 
+ <img src="https://github.com/kosuridivesh/kosuridivesh/blob/output/github-contribution-grid-snake.gif" alt="" title=""/>
+ </p>
  
+ ## Connect with me:
 <!--ConnectionsStart-->
-  ## Connect with me:
 <p align="center"> 
 <a href="https://linkedin.com/in/divesh-kosuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divesh-kosuri" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:13163843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:13163843" height="30" width="40" /></a>
