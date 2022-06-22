@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=480&lines=An+aspiring+techie+%23fresher;Data+Science+Enthusiast;%F0%9F%8E%93Senior+at+Amrita+Vishwa+Vidyapeetham;4%2B+years+of+coding+experience;5%E2%AD%90+at+Problem+Solving%2C+HackerRank;Always+learning+new+things!">
 </p>
-
+df
 
  <!--Skills Start-->
  ## 🛠 Skills:
